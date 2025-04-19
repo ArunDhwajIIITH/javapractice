@@ -1,4 +1,4 @@
-package org.sbp;
+package org.sbp.userinput;
 import java.util.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -14,9 +14,9 @@ public class UserInput {
 
     }
 
+    //Approach 1
     private static void readByScanner()
     {
-        //Approach 1
         Scanner scanner = new Scanner(System.in);
         int count = 0;
         int[] ints = new int[3];
