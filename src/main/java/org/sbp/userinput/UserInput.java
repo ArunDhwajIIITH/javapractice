@@ -11,7 +11,6 @@ public class UserInput {
         //Read and print 3 input from user
         //readByScanner();
         readByBufferedReder();
-
     }
 
     //Approach 1
