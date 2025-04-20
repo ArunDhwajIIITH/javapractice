@@ -15,8 +15,8 @@ target
 target/*
 
 #Igonring intellij 
-.idea
-.idea/*
+#.idea
+#.idea/*
 
 # Package Files #
 *.jar
